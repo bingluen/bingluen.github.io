@@ -3,3 +3,4 @@
 *******************************/
 @pageBackground: hsl(178, 61%, 61%);
 @pageFont: 'droid-serif', 'Source Han Sans Traditional Chinese';
+@fontSize: 15px;

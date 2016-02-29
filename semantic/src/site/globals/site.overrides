@@ -1,3 +1,11 @@
 /*******************************
          Site Overrides
 *******************************/
+section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: rgb(180, 180, 180);
+}
