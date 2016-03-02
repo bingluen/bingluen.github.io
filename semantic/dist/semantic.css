@@ -677,6 +677,10 @@ section {
 p {
   color: #b4b4b4;
 }
+
+.social-icon a {
+  color: #696969;
+}
 /*!
  * # Semantic UI 2.1.8 - Button
  * http://github.com/semantic-org/semantic-ui/

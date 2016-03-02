@@ -9,3 +9,9 @@ section {
 p {
   color: rgb(180, 180, 180);
 }
+
+.social-icon {
+  a {
+    color: hsl(0, 0%, 41%);
+  }
+}
