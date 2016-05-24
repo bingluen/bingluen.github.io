@@ -1,14 +1,14 @@
 # Site
-title:              Erickson Juang
+title:              Erickson Juang (Bing-Luen)
 bio:                '半路出家到資工系的新手'
 description:        "Erickson's personal website"
 reading_time:       true
 words_per_minute:   200
 logo:               'http://s.gravatar.com/avatar/7bc81b728640a4917ec3b6625d16425e?s=150'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_TW
-url:                http://127.0.0.1:4000
+url:                http://bingluen.tw
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   erickson_juang
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,7 +38,7 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            makotoki820224
+twitter:            erickson_juang
 facebook:           chuangpinglun
 github:             bingluen
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
