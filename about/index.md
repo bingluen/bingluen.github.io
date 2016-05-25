@@ -12,6 +12,8 @@ date: 2016-03-21
 * HackNTU 2015
 * COSCUP 2015 志工 / COSCUP 2015 volunteers
 *	SITCON 2015 志工 / SITCON 2015 volunteers
+* 元智大學 ITAC 2nd 學術長 (Sep. 2015 ~ Jun. 2016 ) / Academic Affairs Director of YZU ITAC (Sep. 2015 ~ Jun. 2016 )
+* 元智大學 ITAC 1st 副社長 (Feb. 2015 ~ Aug. 2015 ) / Vice President (Feb. 2015 ~ Aug. 2015 )
 * 元智大學 ITAC -- 共同創辦人 & 講者 (since Oct. 2014) / Co-Founder & Speaker of YZU ITAC (since Oct. 2014)
 * 元智大學 電機系學會 2013 學術長 / Academic Affairs Director of YZU EESA 2013
 * 元智大學 資服處系統開發組 R&D / R&D of Library and Information Services of YZU (2013)
