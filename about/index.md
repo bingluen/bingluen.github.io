@@ -42,10 +42,10 @@ date: 2016-03-21
 ## Keynote
 
 ### 2014
-* 資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/)
-* ITAC 社課 - [PHP + MySQL 新手入門](http://slides.com/ericksonjuang/itac-7-php-mysql#/)
-* ITAC 社課 - [正規表達式入門](http://slides.com/ericksonjuang/regular-expression#/)
+* 資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/){:target="_blank"}
+* ITAC 社課 - [PHP + MySQL 新手入門](http://slides.com/ericksonjuang/itac-7-php-mysql#/){:target="_blank"}
+* ITAC 社課 - [正規表達式入門](http://slides.com/ericksonjuang/regular-expression#/){:target="_blank"}
 
 ### 2013
-* 電機系學會課輔 - [C語言入門2](https://www.dropbox.com/s/eclz3ml79cjegqj/YzuEESA%20C%20Programming%20Language%20Review%20%28%E6%9C%9F%E6%9C%AB_.pptx?dl=0)
-* 電機系學會課輔 - [C語言入門](https://www.dropbox.com/s/zw79egqhgnkzmyp/YzuEESA%20C%20Programming%20Language%20Review.pptx?dl=0)
+* 電機系學會課輔 - [C語言入門2](https://www.dropbox.com/s/eclz3ml79cjegqj/YzuEESA%20C%20Programming%20Language%20Review%20%28%E6%9C%9F%E6%9C%AB_.pptx?dl=0){:target="_blank"}
+* 電機系學會課輔 - [C語言入門](https://www.dropbox.com/s/zw79egqhgnkzmyp/YzuEESA%20C%20Programming%20Language%20Review.pptx?dl=0){:target="_blank"}
