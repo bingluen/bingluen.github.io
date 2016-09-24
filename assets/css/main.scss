@@ -28,6 +28,14 @@ sitemap: false
 
 @media screen and (max-width: 480px) {
   a.social-btn {
+    padding: 8px;
     margin: 5px !important;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  a.social-btn {
+    margin: 3px !important;
+    padding: 5px;
   }
 }
