@@ -13,8 +13,8 @@ date: 2016-03-21
 * 玉山銀行資訊處實習生 2016 / ESUN BANK intern
 * 玉山校園黑客松 2016 / ESUN Hackathon 2016
 * HackNTU 2015
-* COSCUP 2015 志工 / Volunteer of COSCUP 2015 
-*	SITCON 2015 志工 / Volunteer of SITCON 2015 
+* COSCUP 2015 志工 / Volunteer of COSCUP 2015
+*	SITCON 2015 志工 / Volunteer of SITCON 2015
 * 元智大學 ITAC 2nd 學術長 (Sep. 2015 ~ Jun. 2016 ) / Academic Affairs Director of YZU ITAC (Sep. 2015 ~ Jun. 2016 )
 * 元智大學 ITAC 1st 副社長 (Feb. 2015 ~ Aug. 2015 ) / Vice President (Feb. 2015 ~ Aug. 2015 )
 * 元智大學 ITAC -- 共同創辦人 & 講者 (since Oct. 2014) / Co-Founder & Speaker of YZU ITAC (since Oct. 2014)
@@ -41,8 +41,14 @@ date: 2016-03-21
 
 ## Keynote
 
-### 2014
+### 2016
+
+* ITAC 社課 - [SASS/SCSS](https://www.icloud.com/keynote/000GPMuH7OtqT6GwjIGg3OrwA#itac-20151015-web-sass){:target="_blank"}
+
+### 2015
 * 資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/){:target="_blank"}
+
+### 2014
 * ITAC 社課 - [PHP + MySQL 新手入門](http://slides.com/ericksonjuang/itac-7-php-mysql#/){:target="_blank"}
 * ITAC 社課 - [正規表達式入門](http://slides.com/ericksonjuang/regular-expression#/){:target="_blank"}
 
