@@ -44,6 +44,7 @@ date: 2016-03-21
 ### 2016
 
 * ITAC 社課 - [SASS/SCSS](https://www.icloud.com/keynote/000GPMuH7OtqT6GwjIGg3OrwA#itac-20151015-web-sass){:target="_blank"}
+* ITAC 社課 - Python 爬蟲
 
 ### 2015
 * 資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/){:target="_blank"}
