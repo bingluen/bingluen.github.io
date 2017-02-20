@@ -8,10 +8,13 @@ date: 2016-03-21
 
 ## 經歷 / Experience
 
+* SITCON 2017 講者 / Speaker of SITCON 2017
+* SITCON 2017 議程組志工 / Volunteer of SITCON 2017 agenda team
 * COSCUP 2016 志工 / Volunteer of COSCUP 2016
 * SITCON CAMP 2016 志工 / Volunteer of SITCON CAMP 2016
 * 玉山銀行資訊處實習生 2016 / ESUN BANK intern
 * 玉山校園黑客松 2016 / ESUN Hackathon 2016
+* 嘿，元智 專案 / HeyYZU Manager
 * HackNTU 2015
 * COSCUP 2015 志工 / Volunteer of COSCUP 2015
 *	SITCON 2015 志工 / Volunteer of SITCON 2015
@@ -35,6 +38,7 @@ date: 2016-03-21
 * MongoDB
 * d3.js
 * React.js
+* vue.js
 * git
 * Java (Android App)
 
@@ -45,9 +49,10 @@ date: 2016-03-21
 
 * ITAC 社課 - [SASS/SCSS](https://www.icloud.com/keynote/000GPMuH7OtqT6GwjIGg3OrwA#itac-20151015-web-sass){:target="_blank"}
 * ITAC 社課 - Python 爬蟲
+* ITAC 社課 - GitHub
 
 ### 2015
-* 資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/){:target="_blank"}
+* 元智大學資傳系課輔 - [JavaScript Basic](http://slides.com/ericksonjuang/javascript_basic#/){:target="_blank"}
 
 ### 2014
 * ITAC 社課 - [PHP + MySQL 新手入門](http://slides.com/ericksonjuang/itac-7-php-mysql#/){:target="_blank"}
