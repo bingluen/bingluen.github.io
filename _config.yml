@@ -8,7 +8,7 @@ logo:               'http://s.gravatar.com/avatar/7bc81b728640a4917ec3b6625d1642
 background:         'assets/img/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_TW
-url:                http://bingluen.tw
+url:                https://bingluen.tw
 
 # Jekyll
 permalink:          /:title/
