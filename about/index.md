@@ -45,6 +45,10 @@ date: 2016-03-21
 
 ## Keynote
 
+### 2017
+
+* SITCON 2017 - 校園資訊系統的困境與嘗試改善
+
 ### 2016
 
 * ITAC 社課 - [SASS/SCSS](https://www.icloud.com/keynote/000GPMuH7OtqT6GwjIGg3OrwA#itac-20151015-web-sass){:target="_blank"}
