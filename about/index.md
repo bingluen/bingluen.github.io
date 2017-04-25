@@ -2,12 +2,14 @@
 layout: page
 title: About Me
 tags: [about, Erickson, Bing-luen]
-date: 2016-03-21
+date: 2017-04-25
 ---
 
 
 ## 經歷 / Experience
 
+* COSCUP 2017 資訊組志工 / 
+* SITCON Camp 2017 財務組組長 / Finance team of SITCON Camp 2017
 * SITCON 2017 講者 / Speaker of SITCON 2017
 * SITCON 2017 議程組志工 / Volunteer of SITCON 2017 agenda team
 * COSCUP 2016 志工 / Volunteer of COSCUP 2016
