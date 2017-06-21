@@ -49,7 +49,7 @@ date: 2017-04-25
 
 ### 2017
 
-* SITCON 2017 - 校園資訊系統的困境與嘗試改善[YouTube](https://youtu.be/1N3HZsPzKrI)[Keynote](https://drive.google.com/open?id=0B3DBMOQGIHM8bHRacUpmNWIxTzA)
+* SITCON 2017 - 校園資訊系統的困境與嘗試改善[YouTube](https://youtu.be/1N3HZsPzKrI){:target="_blank"}、[Keynote](https://drive.google.com/open?id=0B3DBMOQGIHM8bHRacUpmNWIxTzA){:target="_blank"}
 
 ### 2016
 
