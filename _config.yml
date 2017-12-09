@@ -4,7 +4,7 @@ bio:                '半路出家到資工系的新手'
 description:        "Erickson's personal website"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://s.gravatar.com/avatar/7bc81b728640a4917ec3b6625d16425e?s=150'
+logo:               'https://s.gravatar.com/avatar/a52af793c6d51c70c15c520becf1e296?s=150'
 background:         'assets/img/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_TW
