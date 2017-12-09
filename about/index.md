@@ -2,12 +2,13 @@
 layout: page
 title: About Me
 tags: [about, Erickson, Bing-luen]
-date: 2017-04-25
+date: 2017-12-09
 ---
 
 
 ## 經歷 / Experience
 
+* 青年學生體檢政府網站專案 / Rescue Action by Youth .gov
 * COSCUP 2017 資訊組志工 / 
 * SITCON Camp 2017 財務組組長 / Finance team of SITCON Camp 2017
 * SITCON 2017 講者 / Speaker of SITCON 2017
