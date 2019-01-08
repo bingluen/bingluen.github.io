@@ -2,13 +2,13 @@
 layout: page
 title: About Me
 tags: [about, Erickson, Bing-luen]
-date: 2017-12-09
+date: 2019-01-08
 ---
 
 
 ## 經歷 / Experience
-
-* 青年學生體檢政府網站專案 / Rescue Action by Youth .gov
+* 交大資工系資訊中心（計算機中心）Web 組組長 / 2018 ~ 2019
+* 青年學生體檢政府網站專案 / Rescue Action by Youth .gov / 2017
 * COSCUP 2017 資訊組志工 / 
 * SITCON Camp 2017 財務組組長 / Finance team of SITCON Camp 2017
 * SITCON 2017 講者 / Speaker of SITCON 2017
@@ -32,6 +32,7 @@ date: 2017-12-09
 * 系統分析設計 / System Analysis & Design
 * 使用者介面設計 / User Interface Design
 * 資料視覺化 / Data Visualization
+* 自動化部屬建置 / CICD
 
 ## Tool & Language
 
@@ -44,7 +45,8 @@ date: 2017-12-09
 * vue.js
 * git
 * Java (Android App)
-
+* PHP (laravel)
+* Docker
 
 ## Keynote
 
