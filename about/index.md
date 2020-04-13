@@ -16,15 +16,15 @@ date: 2020-04-13
 * 元智大學 資服處系統開發組 R&D / R&D of Library and Information Services of YZU (2013)
 
 ## 專案 / Project
-* [eMask 2.0 口罩預約](https://emask.taiwan.gov.tw)
-    - [試營運程式碼](https://github.com/pdis/emask-static)
-* [臺灣登山申請一站式服務網](https://hike.taiwan.gov.tw)
+* [eMask 2.0 口罩預約](https://emask.taiwan.gov.tw){:target="_blank"}
+    - [試營運程式碼](https://github.com/pdis/emask-static){:target="_blank"}
+* [臺灣登山申請一站式服務網](https://hike.taiwan.gov.tw){:target="_blank"}
     - [我們如何為登山申請打造一站式服務系統
-    ](https://pdis.nat.gov.tw/zh-TW/blog/%E6%88%91%E5%80%91%E5%A6%82%E4%BD%95%E7%82%BA%E7%99%BB%E5%B1%B1%E7%94%B3%E8%AB%8B%E6%89%93%E9%80%A0%E4%B8%80%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99%E7%B3%BB%E7%B5%B1/)
-* [CodiMD on Sandstorm](https://github.com/pdis/codimd-sandstorm)
-* [國立交通大學資訊學院招生系統](https://admission.cs.nctu.edu.tw/)
+    ](https://pdis.nat.gov.tw/zh-TW/blog/%E6%88%91%E5%80%91%E5%A6%82%E4%BD%95%E7%82%BA%E7%99%BB%E5%B1%B1%E7%94%B3%E8%AB%8B%E6%89%93%E9%80%A0%E4%B8%80%E7%AB%99%E5%BC%8F%E6%9C%8D%E5%8B%99%E7%B3%BB%E7%B5%B1/){:target="_blank"}
+* [CodiMD on Sandstorm](https://github.com/pdis/codimd-sandstorm){:target="_blank"}
+* [國立交通大學資訊學院招生系統](https://admission.cs.nctu.edu.tw/){:target="_blank"}
     (non open source project) 
-* [OPass](https://opass.app/)
+* [OPass](https://opass.app/){:target="_blank"}
     * CCIP-Puzzle-Chocolate
     * CCIP-Puzzle-Bueno
     * CCIP-Admin-Bueno
