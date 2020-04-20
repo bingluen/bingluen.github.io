@@ -33,6 +33,7 @@ date: 2020-04-13
 * HackNTU 2015
 
 ## 社群參與 / Community
+* COSCUP 2019 資訊組志工
 * COSCUP 2017 資訊組志工
 * SITCON Camp 2017 財務組組長 / Finance team of SITCON Camp 2017
 * SITCON 2017 講者 / Speaker of SITCON 2017
