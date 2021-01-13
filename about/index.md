@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 tags: [about, Erickson, Bing-luen]
-date: 2020-04-13
+date: 2021-01-13
 ---
 
 
@@ -16,6 +16,12 @@ date: 2020-04-13
 * 元智大學 資服處系統開發組 R&D / R&D of Library and Information Services of YZU (2013)
 
 ## 專案 / Project
+* [RAY 4.0](https://ray.pdis.nat.gov.tw)
+* PDIS Chat ([Fork from Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative))
+  (non open source project)
+* 振興券搶救協助
+  * 浪漫客庄旅遊券
+  * 動茲券
 * [eMask 2.0 口罩預約](https://emask.taiwan.gov.tw){:target="_blank"}
     - [試營運程式碼](https://github.com/pdis/emask-static){:target="_blank"}
 * [臺灣登山申請一站式服務網](https://hike.taiwan.gov.tw){:target="_blank"}
@@ -45,7 +51,6 @@ date: 2020-04-13
 * 元智大學 ITAC 2nd 學術長 (Sep. 2015 ~ Jun. 2016 ) / Academic Affairs Director of YZU ITAC (Sep. 2015 ~ Jun. 2016 )
 * 元智大學 ITAC 1st 副社長 (Feb. 2015 ~ Aug. 2015 ) / Vice President (Feb. 2015 ~ Aug. 2015 )
 * 元智大學 ITAC -- 共同創辦人 & 講者 (since Oct. 2014) / Co-Founder & Speaker of YZU ITAC (since Oct. 2014)
-
 
 ## Keynote
 
